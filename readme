@@ -1,0 +1,14 @@
+This repository was made for recreating my model used for DeepCognition's Soda Bottle Challenge.
+The model - which was written in python (version 3.6.7) - was exported from Deep Learning Studio, the rest of the code was mostly based on:
+
+Sentdex's youtube tutorials on building a Convolutional Neural Network using Keras and TensorFlow:
+https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN 
+
+
+Coursera "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning":
+https://www.coursera.org/learn/introduction-tensorflow/home/welcome
+
+
+The TensorBoard logs can be found in the logs folder.
+The model was built using Keras 2.1.6.
+Additional modules were used in this model such as python-OpenCV, numpy, pandas, scikit-learn.
